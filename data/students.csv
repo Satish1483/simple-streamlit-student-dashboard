@@ -1,0 +1,7 @@
+student_id,name,course,city,attendance,assignment_score,test_score,final_score,grade
+S001,Aarav,Python,Chennai,90,85,88,87.2,A
+S002,Diya,Data Analytics,Bengaluru,80,78,82,80.0,B
+S003,Ishaan,Machine Learning,Hyderabad,72,68,75,71.6,B
+S004,Meera,Web Development,Pune,95,92,90,91.8,A
+S005,Kabir,Python,Chennai,60,55,58,57.2,C
+S006,Ananya,Data Analytics,Bengaluru,88,84,86,85.6,A
